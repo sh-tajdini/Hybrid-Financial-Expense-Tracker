@@ -1,0 +1,18 @@
+.expense-form {
+    background-color: #f8f9fa;
+    padding: 1.5rem;
+    border-radius: 0.25rem;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  }
+  
+  .expense-form h2 {
+    text-align: center;
+  }
+  
+  .expense-form .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .expense-form .btn {
+    width: 100%;
+  }
